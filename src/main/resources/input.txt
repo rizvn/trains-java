@@ -1,0 +1,11 @@
+Graph: AB5, BC4, CD8, DC8, DE6, AD5, CE2, EB3, AE7
+Distance: A-B-C
+Distance: A-D
+Distance: A-D-C
+Distance: A-E-B-C-D
+Distance: A-E-D
+Trips: MAX_STOPS,3,C-C
+Trips: EXACT_STOPS,4,A-C
+Shortest: A-C
+Shortest: B-B
+Trips: MAX_DISTANCE,30,C-C
